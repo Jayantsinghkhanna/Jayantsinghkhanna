@@ -13,6 +13,8 @@
 - 🌱 Passionate about **AI, Machine Learning, Cloud, and Autonomous Systems**  
 - 🛠️ Interested in building **scalable software, intelligent systems, and automation tools**  
 
+![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep_Learning_Institute-green?logo=nvidia&style=for-the-badge)
+
 ---
 
 ## 🔧 Technical Skills  
