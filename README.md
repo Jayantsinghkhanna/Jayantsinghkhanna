@@ -58,11 +58,11 @@
 
 ---
 
-* 🗣️ [**Jarvis Voice Assistant**](https://github.com/Jayantsinghkhanna/Jarvis) – Desktop assistant for apps, email automation, and information retrieval
+* 🗣️ [**Jarvis Voice Assistant**] – Desktop assistant for apps, email automation, and information retrieval
 
-* 🌐 [**Society Administration Website**](https://github.com/Jayantsinghkhanna/Society-Website) – Responsive React.js platform for society management
+* 🌐 [**Society Administration Website**] – Responsive React.js platform for society management
 
-* 🏃 [**Athlete Injury Prediction**](https://github.com/Jayantsinghkhanna/Injury-Prediction-ML) – ML models with 92% accuracy for sports injury prevention
+* 🏃 [**Athlete Injury Prediction**]– ML models with 92% accuracy for sports injury prevention
 
 * 🚁 **UAV Project (Internship)** – Designed & developed UAV with **ROS-based autonomous navigation**
 
