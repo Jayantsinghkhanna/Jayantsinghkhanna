@@ -62,7 +62,7 @@
 
 * 🌐 [**Society Administration Website**] – Responsive React.js platform for society management
 
-* 🏃 [**Athlete Injury Prediction**]– ML models with 92% accuracy for sports injury prevention
+* 🏃 [**Athlete Injury Prediction**](https://github.com/Jayantsinghkhanna/Athlete_Injury_Prediction)– ML models with 92% accuracy for sports injury prevention
 
 * 🚁 **UAV Project (Internship)** – Designed & developed UAV with **ROS-based autonomous navigation**
 
