@@ -49,14 +49,7 @@
 <details>
   <summary>Click to expand 👇</summary>
 
-### 📊 Blinkit Sales Analysis Dashboard(https://github.com/Jayantsinghkhanna/Blinkit-sales-dashboard-powerbi)
-
-* Built Power BI dashboard analyzing **$1.2M+ sales data**
-* Performed **EDA in Python** and extracted business insights
-* Used **SQL queries** for data analysis
-* Identified trends in **outlet performance, product demand, and customer behavior**
-
----
+[**📊 Blinkit Sales Analysis Dashboard**](https://github.com/Jayantsinghkhanna/Blinkit-sales-dashboard-powerbi) - Built Power BI dashboard analyzing **$1.2M+ sales data.
 
 *  [**⚖️ Legal-Ease: AI Contract Analysis System**](https://github.com/Jayantsinghkhanna/legal-ease-ai) - AI-powered legal contract analysis system using RAG (FAISS + Gemini) with source citations and hallucination-resistant Q&A.
 
