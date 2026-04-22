@@ -58,7 +58,11 @@
 
 ---
 
-* 🗣️ [**Jarvis Voice Assistant**] – Desktop assistant for apps, email automation, and information retrieval
+*  [**⚖️ Legal-Ease: AI Contract Analysis System**](https://github.com/Jayantsinghkhanna/legal-ease-ai) - AI-powered legal contract analysis system using RAG (FAISS + Gemini) with source citations and hallucination-resistant Q&A.
+
+*  [**E-Commerce Sales DASHBOARD**](https://github.com/Jayantsinghkhanna/Ecommerce-Sales-Analytics)
+
+*  [**23 Skin Disease Detection**](https://github.com/Jayantsinghkhanna/23-Skin-diseases-detection-using-Swin-transformer-)
 
 * 🌐 [**Society Administration Website**] – Responsive React.js platform for society management
 
