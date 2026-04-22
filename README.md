@@ -49,7 +49,7 @@
 <details>
   <summary>Click to expand 👇</summary>
 
-### 📊 Blinkit Sales Analysis Dashboard
+### 📊 Blinkit Sales Analysis Dashboard(https://github.com/Jayantsinghkhanna/Blinkit-sales-dashboard-powerbi)
 
 * Built Power BI dashboard analyzing **$1.2M+ sales data**
 * Performed **EDA in Python** and extracted business insights
